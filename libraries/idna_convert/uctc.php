@@ -10,10 +10,10 @@
  * - UTF-7
  * - UTF-7 IMAP (modified UTF-7)
  *
- * @package phlyMail Nahariya 4.0+ Default branch
- * @author Matthias Sommerfeld  <mso@phlyLabs.de>
- * @copyright 2003-2009 phlyLabs Berlin, http://phlylabs.de
- * @version 0.0.6 2009-05-10
+ * @package     IDNA Convert
+ * @author      Matthias Sommerfeld  <mso@phlyLabs.de>
+ * @copyright  2003-2009 phlyLabs Berlin, http://phlylabs.de
+ * @version    0.0.6 2009-05-10
  */
 class uctc {
     private static $mechs = array('ucs4', /*'ucs4le', 'ucs4be', */'ucs4array', /*'utf16', 'utf16le', 'utf16be', */'utf8', 'utf7', 'utf7imap');

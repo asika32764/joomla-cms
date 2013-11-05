@@ -46,6 +46,7 @@
  *
  * ACE input and output is always expected to be ASCII.
  *
+ * @package IDNA Convert
  * @author  Matthias Sommerfeld <mso@phlylabs.de>
  * @copyright 2004-2011 phlyLabs Berlin, http://phlylabs.de
  * @version 0.8.0 2011-03-11
